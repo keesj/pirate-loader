@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1679/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader
+END
+pirate-loader.depend
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1634/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/pirate-loader.depend
+END
+pirate-loader.exe
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1634/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/pirate-loader.exe
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1650/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/test.sh
+END
+pirate-loader_lnx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1650/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/pirate-loader_lnx
+END
+build-unix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1650/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/build-unix.sh
+END
+pirate-loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1634/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/pirate-loader.c
+END
+pirate-loader.cbp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1634/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/pirate-loader.cbp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1653/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/makefile
+END
+pirate-loader.layout
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1634/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/pirate-loader.layout
+END
+test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1634/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/test.bat
+END
+build-win32.bat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1634/trunk/Bus_Pirate/BPv4-bootloader/pirate-loader/build-win32.bat
+END
